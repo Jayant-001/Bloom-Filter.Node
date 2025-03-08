@@ -1,0 +1,1 @@
+A Bloom Filter implementation in Node.js using Redis.
